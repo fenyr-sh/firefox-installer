@@ -1,2 +1,2 @@
-# Firefox
+# Firefox installer for unsupported systems
 
